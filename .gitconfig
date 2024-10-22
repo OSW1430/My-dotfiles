@@ -1,0 +1,7 @@
+[user]
+	name = sino
+	email = osw1430@gmail.com
+[core]
+	editor = vim
+[color]
+	ui = true
